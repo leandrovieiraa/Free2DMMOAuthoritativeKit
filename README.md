@@ -1,7 +1,7 @@
 # Free2DMMOAuthoritativeKit
 It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers create their own MMO. It has an authoritative concept of commands between server and client.
 
-## Features ##
+### Features ###
 
 * Server Authoritative
 * Fully Unity + UNET based
@@ -20,3 +20,7 @@ It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers 
 * Start as Host or Client
 * Network Time Synchronization
 * Custom NetworkManager Script (GameServer.cs)
+
+### Two TV Games ###
+
+:copyright: Developer Leandro Vieira (gallighanmaker)
