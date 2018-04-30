@@ -1,6 +1,13 @@
 # Free2DMMOAuthoritativeKit
 It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers create their own MMO. It has an authoritative concept of commands between server and client.
 
+### Informations ###
+
+* Unity Engine (Version 5+)
+* Intuitive package and easy-to-customize
+* Simple and free, remember it is a project to learn and use as a concept, do not expect a complete project.
+* Some features are currently working in progress
+
 ### Features ###
 
 * Server Authoritative
