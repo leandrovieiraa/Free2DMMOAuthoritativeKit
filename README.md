@@ -7,15 +7,16 @@ It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers 
 * Fully Unity + UNET based
 * Same Scripts for Client & Server
 * Uses Unity's new UI system
-* Players, Monsters, NPCs (Work in progress)
+* Player
+* Monsters (Work in progress)
+* NPCs (Work in progress)
 * WSAD movement
 * Animations via Mecanim
 * Base 2D Sprites
 * Chat
-* Minimap
-* Death and Respawning
+* Minimap (Work in progress)
+* Death and Respawning (Work in progress)
 * Crafted C# Code
-* (Experimental) Zones Addon available
 * Start as Host or Client
 * Network Time Synchronization
 * Custom NetworkManager Script (GameServer.cs)
