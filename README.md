@@ -3,6 +3,8 @@ It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers 
 
 ![img](https://image.prntscr.com/image/0cJNX_7BTkihpq767E6tvg.png)
 
+![img](https://i.imgur.com/m4M3bHi.png)
+
 ### Informations ###
 
 * Unity Engine (Version 5+)
