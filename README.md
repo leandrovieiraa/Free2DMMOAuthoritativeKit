@@ -32,6 +32,10 @@ It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers 
 * Network Time Synchronization
 * Custom NetworkManager Script (GameServer.cs)
 
+### Project Video ###
+
+[Youtube - Free 2D MMO Authoritative Kit Video](https://youtu.be/I6dmRG4z-tk)
+
 ### Two TV Games ###
 
 :copyright: Developer Leandro Vieira (gallighanmaker)
