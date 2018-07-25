@@ -5,7 +5,7 @@ It's a FREE and simple kit made in Unity Engine (Version 2017+) to help develope
 
 ### Informations ###
 
-* Unity Engine (Version 5+)
+* Unity Engine (Version 2017+)
 * Intuitive package and easy-to-customize
 * Simple and free, remember it is a project to learn and use as a concept, do not expect a complete project.
 * Some features are currently working in progress
