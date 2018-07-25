@@ -1,5 +1,5 @@
 # Free2DMMOAuthoritativeKit
-It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers create their own MMO. It has an authoritative concept of commands between server and client.
+It's a FREE and simple kit made in Unity Engine (Version 2017+) to help developers create their own MMO. It has an authoritative concept of commands between server and client.
 
 ![img](https://i.imgur.com/m4M3bHi.png)
 
@@ -18,15 +18,15 @@ It's a FREE and simple kit made in Unity Engine (Version 5+) to help developers 
 * Fully Unity + UNET based
 * Same Scripts for Client & Server
 * Uses Unity's new UI system
-* Player
-* Monsters (Work in progress)
-* NPCs (Work in progress)
+* Player's
+* Monster's
+* NPC's
 * WSAD movement
 * Animations via Mecanim
-* Base 2D Sprites
+* 2D Sprites
 * Chat
-* Minimap (Work in progress)
-* Death and Respawning (Work in progress)
+* Minimap
+* Death and Respawning
 * Crafted C# Code
 * Start as Host or Client
 * Network Time Synchronization
